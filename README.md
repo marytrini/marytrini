@@ -1,13 +1,13 @@
 ### <div align="center">I'm María Salazar, a full-time full-stack web developer  🚀
 
-Passionate about Javascript, learning constantly and keeping up with the updates of TI world</div>  
+Passionate about Javascript, React, Next, and front end technologies</div>  
   
 
-- 🔭 I’m currently working on MedConnect App (https://github.com/Adhemirsab/MedConnect_Back)  
+- 🔭 I’m currently working on MedConnect App(https://github.com/marytrini/MedConnect_Back-Mary)  
   
 
 - 🌱 I’m currently learning Next js and Redux Toolkit  
-    
+  
 
 - ⚡ Fun fact: I use tabs over spaces  
   
@@ -87,14 +87,8 @@ Passionate about Javascript, learning constantly and keeping up with the updates
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 
@@ -108,13 +102,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
 
 ----
