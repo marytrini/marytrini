@@ -80,9 +80,9 @@ Passionate about Javascript, React, Next, and front end technologies</div>
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marytrini&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marytrini&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marytrini&hide_border=true&layout=compact" align="left" />  
+  
 
 <br/>  
 
@@ -95,8 +95,8 @@ Passionate about Javascript, React, Next, and front end technologies</div>
 
 
 ### Visitor Counter  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=marytrini&&style=flat-square" align="center" />
+<div align="left" >
+<img src="https://komarev.com/ghpvc/?username=marytrini&&style=flat-square" align="left" />
 </div>  
   
 
