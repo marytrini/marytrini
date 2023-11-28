@@ -1,12 +1,12 @@
-### <div align="center">I'm María Salazar, a full-time full-stack web developer  🚀
+### <div align="center">I'm María Salazar, an aspiring frontend developer  🚀
 
 Passionate about Javascript, React, Next, and front end technologies</div>  
   
 
-- 🔭 I’m currently working on MedConnect App(https://github.com/marytrini/MedConnect_Back-Mary)  
+- 🔭 I’m currently working on Portfolio (https://github.com/marytrini/Portfolio)  
   
 
-- 🌱 I’m currently learning Next js and Redux Toolkit  
+- 🌱 I’m currently learning Next.js 13, tailwind and Redux toolkit  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
