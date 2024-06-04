@@ -3,10 +3,10 @@
 Passionate about Javascript, React, Next, and front end technologies</div>  
   
 
-- 🔭 I’m currently working on Portfolio (https://github.com/marytrini/Portfolio)  
+- 🔭 I’m currently working on a Notes app (https://github.com/marytrini/Challenge)  
   
 
-- 🌱 I’m currently learning Next.js 13, tailwind and Redux toolkit  
+- 🌱 I’m currently learning Typescript  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
