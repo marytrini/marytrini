@@ -1,7 +1,7 @@
-### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+María;recent+frontend+developer;Welcome!](https://git.io/typing-svg)
+### <div align="center">
 
 </div>  
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+María;recent+frontend+developer;Welcome!](https://git.io/typing-svg)  
 
 - 🔭 I’m currently working on a Notes app (https://github.com/marytrini/Challenge)  
   
