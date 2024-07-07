@@ -76,16 +76,16 @@
 
 <br/>  
 
+## Visitor Counter  
+<div align="left" >
+<img src="https://komarev.com/ghpvc/?username=marytrini&&style=flat-square" align="left" />
+</div>  
 
 ## Github Stats  
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=marytrini&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
   
-## Visitor Counter  
-<div align="left" >
-<img src="https://komarev.com/ghpvc/?username=marytrini&&style=flat-square" align="left" />
-</div>  
-  
+ 
 
 <br/>  
 
