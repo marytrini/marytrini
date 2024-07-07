@@ -1,7 +1,7 @@
 ### <div align="center">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F756A8&random=false&width=435&lines=Hi%2C+I'm+Mar%C3%ADa;Frontend+developer;let's+create+something!" alt="Typing SVG" /></a>
 </div>  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+María;recent+frontend+developer;Welcome!](https://git.io/typing-svg)  
+
 
 - 🔭 I’m currently working on a Notes app (https://github.com/marytrini/Challenge)  
   
