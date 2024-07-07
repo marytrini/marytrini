@@ -1,6 +1,6 @@
-### <div align="center">I'm María Salazar, an aspiring frontend developer  🚀
+### <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+María;recent+frontend+developer;Welcome!](https://git.io/typing-svg)
 
-Passionate about Javascript, React, Next, and front end technologies</div>  
+</div>  
   
 
 - 🔭 I’m currently working on a Notes app (https://github.com/marytrini/Challenge)  
