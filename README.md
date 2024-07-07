@@ -1,15 +1,17 @@
 ### <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lexend&pause=1000&color=F756A8&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Mar%C3%ADa+Salazar;Frontend+developer;let's+create+something+together!" alt="Typing SVG" /></a>
 </div>  
+<div align="center">
+  <h2>Exploring the world of web development and enjoying every step of the way</h2>
+</div>
 
-
-- 🔭 I’m currently working on a Notes app (https://github.com/marytrini/Challenge)  
+- 🔭 I’m currently working on the UI for a data science project (https://github.com/marytrini/Movies) 
   
 
 - 🌱 I’m currently learning Typescript  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: pinapple pizza hater  
   
 
 <br/>  
@@ -94,7 +96,7 @@
 
 
 
-### Visitor Counter  
+## Visitor Counter  
 <div align="left" >
 <img src="https://komarev.com/ghpvc/?username=marytrini&&style=flat-square" align="left" />
 </div>  
