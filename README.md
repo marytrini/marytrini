@@ -55,10 +55,6 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -82,7 +78,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marytrini&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=marytrini&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 
   
 
