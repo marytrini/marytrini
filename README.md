@@ -5,8 +5,8 @@
   <h2>Exploring the world of web development and enjoying every step of the way</h2>
 </div>
 
-- 🔭 I’m currently working on the UI for a data science project (https://github.com/marytrini/Movies) 
-- 🌱 I’m currently learning Typescript  
+- 🔭 I’m currently working on the development of a cms with Laravel 
+- 🌱 I’m currently learning Laravel  
 - ⚡ Fun fact: pinapple pizza hater  
 <br/>  
 
